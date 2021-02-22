@@ -10,7 +10,7 @@ Front-End Developer for NoxDigital and Idvogados.
 
 - 💬 Ask me about technologies, meditation and _Occultism_.
 
-- 📫 How to reach me: luishenriquetp@gmail.com
+- 📫 How to reach me: mailto:luishenriquetp@gmail.com
 
 - 🎥 Love movies and nerd culture.
 
