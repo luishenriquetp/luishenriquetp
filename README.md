@@ -1,25 +1,18 @@
-# ⚡ Guilherme Rodz
+# ⚡ Luís Trindade
 
-**Software Engineer** [@Rocketseat](https://github.com/Rocketseat).
+**Front-End Developer** [@NoxDigital](https://noxdigital.com.br).
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/guilherme_rodz?color=%234fffff&label=%40guilherme_rodz&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/guilherme_rodz)
-[![YouTube Badge](https://img.shields.io/badge/youtube--%2300EBEB?style=for-the-badge&logo=youtube)](https://youtube.com/guilhermerodz)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermerodz)
+Front-End Developer for NoxDigital and Idvogados. 
 
-Content creator for my personal channel and instructor at Rocketseat.  
-I mentored at the RS/XP 2019 Hackathon (São Paulo - Brazil), on which participated a thousand developers.
+- ⚡ Currently mastering _ReactJS_, _Next.js_, and _React Native_.
 
-- 🎥 I taught tens of thousands of developers on [YouTube](https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp), every week.
+- 💬 Ask me about technologies, meditation and _Occultism_.
 
-- ⚡ Currently mastering _Next.js_, TDD and _Design Patterns_
+- 📫 How to reach me: luishenriquetp@gmail.com
 
-- 💬 Ask me about technologies, mindfulness and _eSports_.
+- 🙏 Fun fact: I believe in the fusion of mystical concepts and technology.
 
-- 📫 How to reach me: contato@rodz.dev
+🚀 Twitter: [@luishenriquetp](https://www.twitter.com/luishenriquetp)
 
-- 🎮 Fun fact: I've been a semi-professional eSports player in the past.
-
-🚀 Twitter: [@guilherme_rodz](https://www.twitter.com/guilherme_rodz)
-
-> "If you want to change the world, start off by making your bed."
-> ― William McRaven
+> "Come on, you scuzzy data, be in there! ."
+> ― Kevin Flynn
