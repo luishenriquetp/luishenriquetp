@@ -1,6 +1,6 @@
 # ⚡ Luís Trindade
 
-**Front-End Developer** [@NoxDigital](https://noxdigital.com.br).
+**Front-End Developer** [@NoxDigital](https://noxdigital.com.br) & [@Idvogados](https://idvogados.org).
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luishenriquetp)
 
