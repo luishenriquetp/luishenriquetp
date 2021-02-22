@@ -4,7 +4,7 @@
 
 Front-End Developer for NoxDigital and Idvogados. 
 
-- ⚡ Currently mastering _ReactJS_, _Next.js_, and _React Native_.
+- ⚡ Currently mastering _React.js_, _Next.js_, and _React Native_.
 
 - 💬 Ask me about technologies, meditation and _Occultism_.
 
