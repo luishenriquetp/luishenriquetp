@@ -2,7 +2,6 @@
 
 **Front-End Developer** [@NoxDigital](https://noxdigital.com.br).
 
-[![Twitter Badge](https://img.shields.io/twitter/follow/luishenriquetp?color=%234fffff&label=%40luishenriquetp&logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/luishenriquetp)
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luishenriquetp)
 
 Front-End Developer for NoxDigital and Idvogados. 
@@ -13,9 +12,9 @@ Front-End Developer for NoxDigital and Idvogados.
 
 - 📫 How to reach me: luishenriquetp@gmail.com
 
-- 🙏 Fun fact: I believe in the fusion of mystical concepts and technology.
+- 🎥 Love movies and nerd culture.
 
-🚀 Twitter: [@luishenriquetp](https://www.twitter.com/luishenriquetp)
+- 🙏 Fun fact: I _really_ believe in the fusion of mystical concepts and technology.
 
-> "Come on, you scuzzy data, be in there! ."
+> "Come on, you scuzzy data, be in there!"
 > ― Kevin Flynn
