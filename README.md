@@ -2,9 +2,9 @@
 
 **Full Stack Developer**
 
-Front-End Developer for NoxDigital and Idvogados. 
+Aiming to be a master on JavaScript/Typescript/SQL
 
-- ⚡ Currently mastering _React.js_, _Next.js_, and _React Native_;
+- ⚡ Currently mastering _React.js_, _Next.js_, and _Node_;
 
 - 💬 Ask me about technologies and development;
 
