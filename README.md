@@ -44,11 +44,6 @@ São Paulo, SP - Brasil
 - [js_2048_game](https://github.com/luistrindade/js_2048_game)
 - [Monster Slayer](https://github.com/luistrindade/monster-slayer)
 
-## 🎓 Certificações
-- Certificação em Desenvolvimento Full Stack
-- Certificação em Segurança para Aplicações Web
-- Certificação AWS e Azure Fundamentals
-
 ## 📞 Contato
 - **E-mail**: luishenriquetp@gmail.com
 - **GitHub**: [github.com/luistrindade](https://github.com/luistrindade)
