@@ -32,7 +32,7 @@ Atualmente, busco oportunidades como Desenvolvedor Full Stack, com foco em JavaS
 São Paulo, SP - Brasil
 
 ## 👨‍💻 Experiência Profissional
-- **Desenvolvedor Full Stack** (5+ anos de experiência)
+- **Desenvolvedor Full Stack** (3+ anos de experiência)
 - Projetos de alto desempenho e escalabilidade
 - Colaboração com times multidisciplinares
 - Implementação de testes automatizados e CI/CD
