@@ -5,6 +5,7 @@ Atualmente, busco oportunidades como Desenvolvedor Full Stack, com foco em JavaS
 
 ## 🛠️ Tecnologias
 - **Front-end**: Angular, React.js, Next.js, HTML, CSS, Sass, Tailwind CSS, Bootstrap
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge/>
 - **Back-end**: Node.js, Express.js, NestJS
 - **Banco de Dados**: PostgreSQL
 - **Outras**: Docker, CI/CD, Firebase, AWS, Azure, OpenShift, Git, Jest, Jasmine, Karma, Redux, Webpack
